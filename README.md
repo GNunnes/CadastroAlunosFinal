@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=for-the-badge&logo=intellijidea)
 
-Sistema simples de cadastro de alunos utilizando **Java com Swing** e **MySQL**, desenvolvido para fins educacionais no contexto dos estudos com a plataforma **DIO**.
+Sistema simples de cadastro de alunos utilizando **Java com Swing** e **MySQL**, desenvolvido para fins educacionais no contexto dos estudos com a plataforma **FAT**.
 
 > 💡 Ideal para praticar a integração entre **Java Desktop (Swing)** e **banco de dados relacional** com conexão JDBC.
 
